@@ -4,4 +4,4 @@ Typescript Core Concepts
 ![image](./docs/image2.png)
 
 
--------- Target July ----------
+-------- Target January 2025 ----------
